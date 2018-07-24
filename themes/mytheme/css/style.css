@@ -1,0 +1,34 @@
+body{
+    background: #abc8d2;
+}
+
+#block-mytheme-account-menu{
+    background: red;
+    width: 290px;
+    display: block;
+    margin: 0 auto;
+
+}
+#block-mytheme-account-menu li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px;
+}
+
+#block-mytheme-account-menu ul{
+text-align: center;
+
+}
+
+#block-mytheme-account-menu li a {
+text-decoration: none;
+    font-size: 14px;
+}
+
+#block-mytheme-account-menu li a:hover {
+    color: #0a6eb4;
+}
+
+.my_meta{
+    background: #adc6ff;
+}
